@@ -28,4 +28,6 @@
     - [Interações com teclado](https://github.com/gabrielpramalho/animation-threejs/blob/e3073ff00e2544cff004dc22c24cad39ab7d1f8d/main.js#L169)
 
 
-## Imagens
+## Exemplo
+
+![Imagem de exemplo](assets/ex.png)
